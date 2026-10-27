@@ -1,3 +1,6 @@
+## Dashboard Preview
+
+![Retail Sales Performance Dashboard](Superstore%20Dashboard.PNG.png)
 # Retail Sales Performance Analysis
 
 ## Project Overview
